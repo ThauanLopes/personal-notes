@@ -1,1 +1,2 @@
 - dar uma olhada em Vim Motions
+- Pesquisar gravatas e ver quais tipos de camisas são para usar gravatas.
