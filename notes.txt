@@ -7,3 +7,4 @@ ok - Comprar uma calça de alfaiataria no mercado livre.
 - Devolver os sapatos
     - Não quero o "branco" mesmo que de outra cor. O material parece ser ruim demais. Ver qual é para não comprar por engano de outra cor.
     - Comprar o marrom de tamanho menor (42). O sapato parece bom, pelo preço.
+- Preciso organizar as fotos que baixei do site da FMW! (em algum lugar no pc ou no github (pode ficar pesado. Ver quantos mega dá))
