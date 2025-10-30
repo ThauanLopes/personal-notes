@@ -1,3 +1,9 @@
 - Pesquisar gravatas e ver quais tipos de camisas são para usar gravatas.
+- Terminar de ler as boas práticas do https://github.com/goldbergyoni/nodebestpractices
+    - Eles que fizeram o Practica.js (que tem < 200 linhas de código, o que é bom), que usa 3-tier architecture.
 ok - Comprar uma calça de alfaiataria no mercado livre.
 - Escolher as lojas das quais vou comprar as calças de alfaiataria. Devo tentar a FMW?
+- Read Fastify Documentation -> Guides -> Getting Started https://fastify.dev/docs/latest/Guides/Getting-Started/
+- Devolver os sapatos
+    - Não quero o "branco" mesmo que de outra cor. O material parece ser ruim demais. Ver qual é para não comprar por engano de outra cor.
+    - Comprar o marrom de tamanho menor (42). O sapato parece bom, pelo preço.
